@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikranthgaddam&label=Profile%20views&color=0e75b6&style=flat" alt="vikranthgaddam" /> </p>
 
-- 🌱 I’m currently learning **AWS Spring Boot**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Android Flutter Nextjs**
 
