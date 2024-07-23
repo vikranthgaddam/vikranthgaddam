@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikranth Gaddam</h1>
 <h3 align="center">Building and breaking</h3>
 
-- 🔭 I’m currently working on **LMSYS - Chatbot Arena Human Preference Predictions**
+
 
 - 📫 How to reach me **vikranthgaddam99@gmail.com**
 
